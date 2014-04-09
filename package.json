@@ -1,0 +1,24 @@
+{
+  "name": "http-npm",
+  "version": "0.0.0",
+  "description": "http interface to npm modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/supershabam/http-npm"
+  },
+  "keywords": [
+    "http",
+    "npm",
+    "maid"
+  ],
+  "author": "Ian Hansen <ian@supershabam.com> (http://supershabam.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/supershabam/http-npm/issues"
+  },
+  "homepage": "https://github.com/supershabam/http-npm"
+}
