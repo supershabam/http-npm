@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/supershabam/http-npm/issues"
   },
-  "homepage": "https://github.com/supershabam/http-npm"
+  "homepage": "https://github.com/supershabam/http-npm",
+  "dependencies": {
+    "nopt": "~2.2.0",
+    "underscore": "~1.6.0",
+    "q": "~1.0.1",
+    "nano": "~5.7.1"
+  }
 }
